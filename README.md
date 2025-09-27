@@ -4,7 +4,7 @@
 Jogo de Adivinhação de Palavras com Display OLED (MicroPython)
 Este projeto é uma versão simplificada de “Wordle / termo”, onde o usuário tenta adivinhar palavras ocultas, letra por letra, com um número limitado de tentativas. O sistema mostra o progresso no display OLED, revelando letras corretas nas posições certas.
 
-🔗 Abrir no Wokwi
+🔗 Abrir no Wokwi: https://wokwi.com/projects/442387488022722561
 
 🧠 Funcionalidades
 
